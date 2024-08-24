@@ -8,3 +8,7 @@ My goal is to develop an AI model that can identify fundamental patterns in stoc
 By focusing on pattern recognition as the first step, we can build upon this foundation to develop more sophisticated trading strategies. This approach aligns with my experience in trading and provides a structured path towards creating a robust AI-powered trading system.
 
 This project represents my attempt to bridge the gap between traditional trading methods and cutting-edge AI technology, with the potential to revolutionize how traders analyze and execute trades in the stock market.
+
+Below is a pattern called 2B or False Braekout. It will be the starting point of this project.
+
+![image](https://github.com/user-attachments/assets/3e907bd7-8901-4bb9-8e12-9b241612efca)
