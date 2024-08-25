@@ -9,6 +9,6 @@ By focusing on pattern recognition as the first step, we can build upon this fou
 
 This project represents my attempt to bridge the gap between traditional trading methods and cutting-edge AI technology, with the potential to revolutionize how traders analyze and execute trades in the stock market.
 
-Below is a pattern called 2B or False Braekout. It will be the starting point of this project.
+Below is a pattern called 2B or False Braekout. It will be the starting point of this project. I am planning to use VisionAI to train a pattern recognition model such that it could recgonise this pattern. There will be more update of the result and technology used once the data has been prepared. 
 
 ![image](https://github.com/user-attachments/assets/3e907bd7-8901-4bb9-8e12-9b241612efca)
